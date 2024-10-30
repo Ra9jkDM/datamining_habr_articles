@@ -13,6 +13,7 @@ Dataset был собран для дальнейшего анализа с по
     - Data_collection.ipynb
     - Exploratory_analysis.ipynb
 - Представление TF-IDF, word2vec/fasttext эмбеддинги
+    - Text_clustering.ipynb (Word2Vec и FastText с весами TF-IDF)
     - Text_vectorization&clustering.ipynb
 - Классификация текстов. Генерация текстов.
     - _
