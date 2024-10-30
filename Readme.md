@@ -15,8 +15,8 @@ Dataset был собран для дальнейшего анализа с по
 - Представление TF-IDF, word2vec/fasttext эмбеддинги
     - Text_clustering.ipynb (Word2Vec и FastText с весами TF-IDF)
     - Text_vectorization&clustering.ipynb
-- Классификация текстов. Генерация текстов.
-    - _
+- Классификация текстов.
+    - Classification.ipynb (del_freq_words.csv.7z)
 - Тематическое разбиение текстов. Выделение именованных сущностей 
     - _
 
