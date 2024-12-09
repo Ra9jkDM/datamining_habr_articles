@@ -19,6 +19,10 @@ Dataset был собран для дальнейшего анализа с по
     - Classification.ipynb (del_freq_words.csv.7z)
 - Тематическое разбиение текстов. Выделение именованных сущностей 
     - Thematic_analysis.ipynb
+- Генерация текстов
+    - Text_generation/Statistical_model.ipynb
+    - Text_generation/gen_statistic.csv - Сгенерированные тексты статистической моделью
+    - Text_generation/Neural_model.ipynb
 
 
 
